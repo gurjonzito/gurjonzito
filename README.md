@@ -17,8 +17,10 @@
 
 </p>
 
-<p align='center'>
 <a href="https://github.com/gurjonzito">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjonzito&theme=tokyonight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gurjonzito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
+  <img align="center" src="https://streak-stats.demolab.com?user=gurjonzito&background=1D1F21&dates=FFFFFF&sideNums=2BBC8A&currStreakNum=2BBC8A&currStreakLabel=2BBC8A&fire=2BBC8A&ring=2BBC8A&stroke=FFFFFF&sideLabels=2BBC8A"/>
+  </a><br/>
+  
+ <a href="https://github.com/gurjonzito">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjonzito&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
